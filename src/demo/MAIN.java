@@ -79,7 +79,7 @@ try
 {
  Clientes Cliente = new Clientes();
   
- Cliente.setId(444);
+ Cliente.setId(5577);
  Cliente.setFirstname("Angie");
  Cliente.setLastname("ramirez");
  Cliente.setTelefono(31278466);
@@ -163,7 +163,7 @@ try
 {
 
     
-    int Id=88;
+    int Id=55;
     Clientes Cliente=em.find(Clientes.class, Id);
     
       
